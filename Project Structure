@@ -1,0 +1,9 @@
+disease-outbreak-prediction/
+│── data/
+│   └── outbreaks.csv        # Dataset (synthetic or real, cases + weather + date)
+│── notebooks/
+│   └── OutbreakPrediction.ipynb
+│── src/
+│   └── outbreak_model.py
+│── README.md
+│── requirements.txt
